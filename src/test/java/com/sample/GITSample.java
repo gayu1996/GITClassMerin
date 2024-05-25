@@ -9,5 +9,12 @@ public class GITSample {
 	private void sub() {
 		System.out.println("Subtraction");
 	}
+	private void modulo() {
+		System.out.println("Modification");
+	}
+	private void divide() {
+		System.out.println("Divide");
+
+	}
 
 }
